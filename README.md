@@ -13,8 +13,10 @@
 <p aling="center"> 
   Segundo While: O(2n + 2m)
 </p>
-
-
+<hr></hr>
+<p aling="center"> 
+  
+</p>
 
 
 
